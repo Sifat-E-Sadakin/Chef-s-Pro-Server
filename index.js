@@ -10,6 +10,13 @@ let data = require('./Data/data.json')
 app.get('/', (req, res) => {
     res.send(data)
   })
+
+app.get('/:id', (req, res)=>{
+    let id =req.params.id;
+    let chef = data.find(c=>c.id == id)
+    res.send(chef)
+
+})
   
   app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
