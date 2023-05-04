@@ -11,6 +11,7 @@
         "number_of_recipes": 57,
         "recipes": [
           {
+            "id":"1",
             "name": "Biriyani",
             "ingredients": [
               "basmati rice",
@@ -26,6 +27,7 @@
             "ratings": 4.9
           },
           {
+            "id":"2",
             "name": "Pitha",
             "ingredients": [
               "rice flour",
@@ -38,6 +40,7 @@
             "ratings": 4.7
           },
           {
+            "id":"3",
             "name": "Chapati",
             "ingredients": [
               "whole wheat flour",
@@ -49,6 +52,7 @@
             "ratings": 4.5
           },
           {
+            "id":"4",
             "name": "Fuchka",
             "ingredients": [
               "chickpeas",
@@ -75,6 +79,7 @@
         "number_of_recipes": 34,
         "recipes": [
           {
+            "id":"5",
             "name": "Shorshe Ilish",
             "ingredients": [
               "Hilsa fish",
@@ -89,6 +94,7 @@
             "ratings": 4.8
           },
           {
+            "id":"6",
             "name": "Chingri Malai Curry",
             "ingredients": [
               "Shrimp",
@@ -107,6 +113,7 @@
             "ratings": 4.7
           },
           {
+            "id":"7",
             "name": "Rui Macher Jhol",
             "ingredients": [
               "Rohu fish",
@@ -138,6 +145,7 @@
         "number_of_recipes": 42,
         "recipes": [
           {
+            "id":"8",
             "name": "Shorshe Bata Chingri",
             "ingredients": [
               "Shrimp",
@@ -152,6 +160,7 @@
             "ratings": 4.8
           },
           {
+            "id":"9",
             "name": "Kachkolar Kofta Curry",
             "ingredients": [
               "Raw banana",
@@ -170,6 +179,7 @@
             "ratings": 4.7
           },
           {
+            "id":"10",
             "name": "Mutton Tehari",
             "ingredients": [
               "Mutton",
@@ -200,6 +210,7 @@
         "number_of_recipes": 57,
         "recipes": [
           {
+            "id":"11",
             "name": "Shutki Bhorta",
             "ingredients": [
               "Dried fish",
@@ -212,6 +223,7 @@
             "ratings": 4.8
           },
           {
+            "id":"12",
             "name": "Bhuna Khichuri",
             "ingredients": [
               "Rice",
@@ -230,6 +242,7 @@
             "ratings": 4.7
           },
           {
+            "id":"13",
             "name": "Chitol Macher Muitha",
             "ingredients": [
               "Chitol fish",
@@ -259,6 +272,7 @@
         "ratings": 4.8,
         "recipes": [
           {
+            "id":"14",
             "name": "Chittagong Fish Curry",
             "ingredients": [
               "500g fish fillet",
@@ -290,6 +304,7 @@
             "ratings": 4.9
           },
           {
+            "id":"15",
             "name": "Chittagong Prawn Curry",
             "ingredients": [
               "500g prawns, cleaned and deveined",
@@ -317,6 +332,25 @@
               "Garnish with chopped coriander leaves and serve hot with steamed rice."
             ],
             "ratings": 4.7
+          },
+          {
+            "id":"16",
+            "name": "Rui Macher Jhol",
+            "ingredients": [
+              "Rohu fish",
+              "potato",
+              "tomato",
+              "onion",
+              "ginger",
+              "garlic",
+              "green chili",
+              "oil",
+              "salt",
+              "turmeric",
+              "water"
+            ],
+            "method": "1. Marinate the Rohu fish with salt and turmeric powder.\n2. Fry the fish in oil till golden brown and keep it aside.\n3. In the same pan, fry onion, ginger, garlic and green chili for few minutes.\n4. Add tomato, potato, salt and turmeric powder and cook for few minutes.\n5. Add water and bring it to boil.\n6. Add the fried fish to the pan and cook for few more minutes.\n7. Serve hot with steamed rice.",
+            "ratings": 4.5
           }
         ],
         "number_of_recipes": 12
@@ -333,6 +367,7 @@
         "number_of_recipes": 30,
         "recipes": [
           {
+            "id":"17",
             "name": "Fuchka",
             "ingredients": [
               "2 cups of fuchka shells",
@@ -345,6 +380,7 @@
             "ratings": 4.7
           },
           {
+            "id":"18",
             "name": "Jhalmuri",
             "ingredients": [
               "4 cups of puffed rice",
@@ -357,6 +393,7 @@
             "ratings": 4.9
           },
           {
+            "id":"19",
             "name": "Bhelpuri",
             "ingredients": [
               "4 cups of puffed rice",
@@ -382,6 +419,7 @@
         "ratings": 4.9,
         "recipes": [
           {
+            "id":"20",
             "name": "Shorshe Ilish",
             "ingredients": [
               "4 Ilish (Hilsa) fish slices",
@@ -410,6 +448,7 @@
             "ratings": 4.8
           },
           {
+            "id":"21",
             "name": "Bhuna Khichuri",
             "ingredients": [
               "1 cup Gobindobhog rice",
@@ -437,6 +476,22 @@
               "Add garam masala powder and mix well.",
               "Serve hot with any side dish of your choice."
             ],
+            "ratings": 4.9
+          },
+          {
+            "id":"22",
+            "name": "Biriyani",
+            "ingredients": [
+              "basmati rice",
+              "chicken",
+              "onion",
+              "garlic",
+              "ginger",
+              "yogurt",
+              "ghee",
+              "spices"
+            ],
+            "method": "1. Marinate the chicken in yogurt and spices for at least an hour\n2. Cook the rice with whole spices\n3. In a separate pan, cook the marinated chicken until browned\n4. Layer the rice and chicken in a large pot\n5. Cover and cook over low heat until the rice is cooked through\n6. Serve hot with raita and chutney",
             "ratings": 4.9
           }
         ],
