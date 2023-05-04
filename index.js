@@ -9,6 +9,7 @@ let data = require('./Data/data.json')
 let seaFood = require('./Data/seafood.json')
 let streetFood = require('./Data/streetfood.json')
 let traditional = require('./Data/traditionalfood.json')
+let extraData = require('./Data/extradata.json')
 
 
 app.get('/', (req, res) => {
@@ -22,6 +23,9 @@ app.get('/', (req, res) => {
   })
   app.get('/traditional', (req, res) => {
     res.send(traditional)
+  })
+  app.get('/extraData', (req, res) => {
+    res.send(extraData)
   })
 
 app.get('/:id', (req, res)=>{

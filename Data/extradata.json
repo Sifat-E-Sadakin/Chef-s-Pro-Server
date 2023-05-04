@@ -1,0 +1,57 @@
+[
+    {
+        "id":"s1",
+        "name":"Grilled Octopus",
+        "photo": "https://img.freepik.com/free-photo/closeup-shot-delicious-roasted-octopus-dish-with-roasted-asparagus-veggies_181624-8595.jpg?w=1060&t=st=1683143449~exp=1683144049~hmac=33ab2155605c2063fed50160a31bfc15422b179f36567fb57c079a6ad9758653",
+        "info":"Grilled Octopus is a seafood dish made by cooking seasoned octopus on a grill or over an open flame, resulting in a tender and flavorful dish often served with lemon and herbs"
+    },
+    {
+        "id":"s2",
+        "name":"Roasted Shrimps ",
+        "photo": "https://img.freepik.com/premium-photo/delicious-roasted-shrimps-with-garlic-curry-mango-sauce-plate-black-background_249006-21450.jpg?w=1060",
+        "info":"Roasted Shrimps is a seafood dish made by seasoning and roasting shrimp in the oven until they are pink and slightly charred, often served with garlic butter or a spicy dipping sauce."
+    },
+    {
+        "id":"s3",
+        "name":"Grilled Lobster",
+        "photo": "https://img.freepik.com/free-photo/lobster-thermidor-grilled-lobster-stuffed-with-cream-cheese-served-with-lemonboston-lobster-w_1205-9398.jpg?w=1060&t=st=1683143587~exp=1683144187~hmac=73f250a3d4ee09e60c093899d1018024cd601a956132a6c724e06b24123e3289",
+        "info":"Grilled Lobster  is a seafood dish made by cooking whole lobsters on a grill or over an open flame, resulting in tender and succulent meat often served with butter or a citrusy sauce."
+    },
+    {
+        "id":"ST1",
+        "name":"Chanachur",
+        "photo": "https://ychef.files.bbci.co.uk/1600x900/p0cdyx42.webp",
+        "info":"Chanachur is a popular snack mix from Bangladesh made with a variety of fried lentils, nuts, spices, and savory ingredients, often enjoyed as a crunchy and flavorful snack."
+    },
+    {
+        "id":"ST2",
+        "name":"Fuchka ",
+        "photo": "https://img.freepik.com/premium-photo/pakistani-spicy-gol-gappay-indian-pani-puri-bangali-fuchka-full-chaat-masala-with-sour-water-dish-isolated-marble-background-top-view-indian-street-food_689047-523.jpg?w=1060",
+        "info":"Fuchka is a popular street food from Bangladesh consisting of crispy shells filled with spicy mashed potatoes, chickpeas, tamarind sauce, and other flavorful ingredients, often enjoyed as a tangy and delicious snack."
+    },
+    {
+        "id":"ST3",
+        "name":"Jhal Muri",
+        "photo": "https://i.ndtvimg.com/i/2016-01/plav-jhal-muri_625x350_41453875535.jpg",
+        "info":"Jhal Muri is a popular street food snack from Bangladesh made with puffed rice, peanuts, spices, and vegetables, mixed with tangy tamarind sauce and mustard oil, often enjoyed as a crunchy and flavorful snack.."
+    },
+    {
+        "id":"T1",
+        "name":"Kachchi Biryani",
+        "photo": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+        "info":"Kachchi Biryani is a popular traditional Bangladeshi dish made with layers of marinated raw meat and aromatic rice, cooked together in a sealed pot, resulting in a flavorful and fragrant one-pot meal."
+    },
+    {
+        "id":"T2",
+
+        "name":"Ilish Vaja",
+        "photo": "https://img.freepik.com/premium-photo/plate-ilish-fish-fry-with-fried-onion_469014-9.jpg?w=1060",
+        "info": "Ilish Vaja is a popular Bangladeshi dish made with fried Hilsa fish, marinated in a blend of spices and served with steaming hot rice and lentil soup, often enjoyed as a traditional and delicious meal."
+    },
+    {
+        "id":"T3",
+        "name":"Kala Bhuna",
+        "photo": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370898.jpg?w=1060&t=st=1683142332~exp=1683142932~hmac=513cf54a2e2ab061aad62ddf921f6a2d07d93747ba7b5d8119455172520a71ff",
+        "info":"Kala Bhuna is a Bangladeshi dish made with black chicken cooked in a blend of spices, onions, and tomatoes, which results in a rich and flavorful sauce."
+    }
+]
