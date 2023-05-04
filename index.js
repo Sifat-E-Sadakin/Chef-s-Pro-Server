@@ -14,6 +14,15 @@ let traditional = require('./Data/traditionalfood.json')
 app.get('/', (req, res) => {
     res.send(data)
   })
+  app.get('/seaFood', (req, res) => {
+    res.send(seaFood)
+  })
+  app.get('/streetFood', (req, res) => {
+    res.send(streetFood)
+  })
+  app.get('/traditional', (req, res) => {
+    res.send(traditional)
+  })
 
 app.get('/:id', (req, res)=>{
     let id =req.params.id;
@@ -22,15 +31,7 @@ app.get('/:id', (req, res)=>{
 
 })
 
-app.get('/seaFood', (req, res) => {
-  res.send(seaFood)
-})
-app.get('/streetFood', (req, res) => {
-  res.send(streetFood)
-})
-app.get('/traditional', (req, res) => {
-  res.send(traditional)
-})
+
   
   app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
